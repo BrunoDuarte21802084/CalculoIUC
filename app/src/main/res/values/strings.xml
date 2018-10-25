@@ -1,13 +1,18 @@
 <resources>
-    <string name="app_name">CalculoIUC</string>
-    <string name="radioButton1_value">até 1250</string>
-    <string name="RadioButton2_value">mais de 1250 até 1750</string>
-    <string name="RadioButton3_value">mais de 1750 até 2500</string>
-    <string name="radioButton4_value">mais de 2500</string>
-    <string name="radiobutton5_value">até 120</string>
-    <string name="radioButton6_value">mais de 120 até 180</string>
-    <string name="radioButton7_value">mais de 180 até 250</string>
-    <string name="radioButton8_value">mais de 250</string>
-    <string name="button1_value">CalcularIUC</string>
-    <string name="textView1_value">Resultado</string>
+        <string name="app_name">Imposto Calculator</string>
+        <string name="cilindrada_value">Cilindrada:</string>
+        <string name="mais_de_1_750_at_2_0_value">mais de 1.750 até 2.0</string>
+        <string name="mais_de_1_250_at_1_750_value">mais de 1.250 até 1.750</string>
+        <string name="at_1_250_value">Até 1.250</string>
+        <string name="mais_de_2_500_value">mais de 2.500</string>
+        <string name="co_value">CO:</string>
+        <string name="at_120_Value">até 120</string>
+        <string name="mais_de_120_at_180_value">mais de 120 até 180</string>
+        <string name="mais_de_180_at_250_value">mais de 180 até 250</string>
+        <string name="mais_de_250_value">mais de 250</string>
+        <string name="calcular_iuc_Value">Calcular IUC</string>
+        <string name="show_result_value">show_result</string>
+        <string name="back_value">Back_value</string>
 </resources>
+
+
